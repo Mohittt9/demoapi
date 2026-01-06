@@ -29,7 +29,7 @@ A modern, responsive React application that fetches and displays products from a
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Mohittt9/demoapi.git
    ```
 
 2. Install dependencies:
