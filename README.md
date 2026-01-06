@@ -41,6 +41,7 @@ A modern, responsive React application that fetches and displays products from a
    ```bash
    npm run dev
    ```
+<img width="1918" height="1036" alt="image" src="https://github.com/user-attachments/assets/a4b5e8cb-a2fa-495a-96aa-48190a9be326" />
 
 ## 📂 Project Structure
 
@@ -54,3 +55,6 @@ A modern, responsive React application that fetches and displays products from a
 This project is open-source and available under the MIT License.
 
 # demoapi
+
+deployee link:
+https://papaya-gnome-1202fa.netlify.app/
